@@ -113,7 +113,7 @@
     "@iarna/toml": "^2.2.5",
     "@solana-playground/seahorse-compile": "../wasm/seahorse-compile/pkg",
     "@solana/web3.js": "^1.66.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "node-fetch": "^3.2.10"
   },
   "devDependencies": {
